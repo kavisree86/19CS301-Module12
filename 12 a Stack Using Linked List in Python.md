@@ -42,6 +42,11 @@ print(stack)
 ```
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/f15d33f8-69c5-498a-9c49-173ebc80d845)
+
+
 ## RESULT
+
+Thus, the given program is implemented and executed successfully.
 
 
