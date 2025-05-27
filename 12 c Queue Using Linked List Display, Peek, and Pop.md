@@ -31,7 +31,8 @@ for i in range(len(queue)):
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/f0d63433-267a-4c01-9c09-1f266717fd9f)
+![image](https://github.com/user-attachments/assets/766f0bd4-b004-4f17-b3c4-1b872d1e792e)
+
 
 
 
