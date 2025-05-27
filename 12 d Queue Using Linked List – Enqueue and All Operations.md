@@ -29,7 +29,7 @@ print('Initial Queue:', queue)
 # Print front and rear elements
 print("\nElement at the front of the queue is", queue[0])
 print("\nElement at the rear of the queue is", queue[-1])
-
+```
 
 ## OUTPUT
 <img width="764" alt="image" src="https://github.com/user-attachments/assets/c53ee71e-28c9-48ab-8786-cfd2d7c2e568" />
