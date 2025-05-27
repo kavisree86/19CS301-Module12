@@ -31,6 +31,10 @@ for i in range(len(queue)):
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/f0d63433-267a-4c01-9c09-1f266717fd9f)
+
+
 
 
 ## RESULT
+The given program is successfully executed.
