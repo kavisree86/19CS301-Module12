@@ -32,7 +32,7 @@ print("\nElement at the rear of the queue is", queue[-1])
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/78953bba-fab6-4240-a272-a4ecbb451810)
+<img width="764" alt="image" src="https://github.com/user-attachments/assets/c53ee71e-28c9-48ab-8786-cfd2d7c2e568" />
 
 
 
