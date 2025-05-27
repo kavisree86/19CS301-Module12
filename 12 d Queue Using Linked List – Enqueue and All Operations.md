@@ -32,6 +32,9 @@ print("\nElement at the rear of the queue is", queue[-1])
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/78953bba-fab6-4240-a272-a4ecbb451810)
+
 
 
 ## RESULT
+The given program is successfully executed.
